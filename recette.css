@@ -1,0 +1,149 @@
+
+.sushi {
+    margin-top: 10px;
+    position: relative;
+    height: 20%;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.pays {
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5em;
+    padding-top: 15px;
+    color: #414141;
+}
+
+.p-title {
+    text-decoration: underline;
+    font-size: 1.5em;
+    padding-top: 15px;
+    color: #414141;
+}
+
+.p-ptitle {
+    font-size: 1.2em;
+    padding-top: 15px;
+    color: #414141;
+}
+
+.presentations {
+    position: relative;
+    font-size: 1.2em;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: #000000;
+}
+
+.ingredient {
+    position: relative;
+    font-size: 1.2em;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: #000000;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+#japon {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#thailande {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#inde {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#italie {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#france {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#espagne {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#maghreb {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#ssa {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#madagascar {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#mexique {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#Etats-Unis {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}
+
+#Brésil {
+    background-color: #ececec;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #62626225;
+}

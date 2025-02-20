@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d2d2d2;
+    color: #414141;
+}
+
+header .container {
+    position: relative;
+    padding-left: 30px;
+    background-color: #414141;
+    color: #fd7c7c;
+    font-weight: bold;
+}
+
+header .titre {
+    font-size: 2.5em;
+    padding-top: 15px
+        /* padding-bottom: 20px; */
+}
+
+header .container .couleur {
+    color: #f4f4f4;
+}
+
+.presentation {
+    position: relative;
+    font-size: 1.2em;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: #f4f4f4;
+}
+
+/*.logo {
+    position: relative;
+    width: 100px;
+    height: 100px;
+} */
+
+.Pays {
+    position: relative;
+    background-color: #e3e0e0;
+    color: #414141;
+    font-weight: bold;
+    /* margin-top: 1px; */
+    border-bottom: #414141 2px solid;
+}
+
+.Pays{
+    text-align: center;
+    padding: 10px;
+}
+.Pays ul {
+    list-style-type: none;
+    /* padding: 0; */
+}
+
+.Pays ul li {
+    display: inline;
+}
+
+.Pays ul li {
+    display: inline;
+}
+
+.Pays ul li a {
+    text-decoration: none;
+    color: #414141;
+    margin: 100px;
+    cursor:default;
+    transition: 0.2s;
+}
+
+.Pays ul li a:hover {
+    color: #fd7c7c;
+    text-decoration: underline #fd7c7c;
+}
+
