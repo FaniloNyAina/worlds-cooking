@@ -10,6 +10,19 @@ body {
     color: #414141;
 }
 
+#continent .pays a{
+    text-decoration: none;
+    color: #414141;
+    margin: 100px;
+    cursor:default;
+    transition: 0.2s;
+
+}
+
+.pays{
+    background-color: #ececec;
+}
+
 header .container {
     position: relative;
     padding-left: 30px;
@@ -28,6 +41,18 @@ header .container .couleur {
     color: #f4f4f4;
 }
 
+main{
+    text-align: center;
+}
+
+main h1{
+    margin: 15px;
+}
+
+p{
+    font-size: 1.5em;
+}
+
 .presentation {
     position: relative;
     font-size: 1.2em;
@@ -35,12 +60,6 @@ header .container .couleur {
     padding-bottom: 15px;
     color: #f4f4f4;
 }
-
-/*.logo {
-    position: relative;
-    width: 100px;
-    height: 100px;
-} */
 
 .Pays {
     position: relative;
@@ -64,9 +83,8 @@ header .container .couleur {
     display: inline;
 }
 
-.Pays ul li {
-    display: inline;
-}
+
+
 
 .Pays ul li a {
     text-decoration: none;
